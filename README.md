@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Mark! 👋
+
+I am a software developer, with a keen interest in web and mobile development.
 
 <!--
 **berneymark/berneymark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
